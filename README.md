@@ -6,3 +6,5 @@ og at kan skulle hente ut nyttig informasjonen fra de tre filene man fikk.
 
 Casen omhandlet kundedata i en matvarebutikk, og jeg har blant annet sett på antall ganger kunder handlet, hvor mye de handlet for, 
 og demografien av kundemassen.
+
+Order_lines-filen lagret jeg som en zip-fil, da den var for stor til å lastes opp på github. 
